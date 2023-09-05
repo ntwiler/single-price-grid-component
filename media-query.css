@@ -1,6 +1,11 @@
 @charset "UTF-8";
 
 @media (min-width: 1000px) {
+  .container {
+    margin-top: 163px;
+    margin-bottom: 163px;
+  }
+
   .rectangle1 {
     width: 636px;
   }
